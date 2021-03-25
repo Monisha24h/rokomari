@@ -1,0 +1,53 @@
+
+.best-seller {
+	height: auto;
+	width: 100%;
+	background: #0797d6;
+	padding: 15px;
+	box-shadow: 0 0 4px 1px #404040;
+}
+.best-seller p {
+	text-align: center;
+	font-size: 20px;
+}
+.catagori { 
+	background: #ffffff;
+	height: 450px;
+	width: 100%;
+}
+.menu-area {
+	background: #f5f3fa;
+    padding-top: 20px;
+}
+.menu {
+	padding: 7px;
+}
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .menu ul li {
+	display: inline-block;
+	margin-left: 76px;
+}
+  .menu ul li a {
+    text-transform: capitalize;
+    color: gray;
+    text-decoration: none;
+  }
+.dropdown {
+	text-align: center;
+	border: 1px solid #1c1a19;
+	width: 260px;
+	height: 32px;
+	margin-left: 22px;
+	border-radius: 24px;
+}
+.best-writter {
+	height: auto;
+	width: 100%;
+	background: #0797d6;
+	padding: 15px;
+	box-shadow: 0 0 4px 1px #404040;
+}
